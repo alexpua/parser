@@ -1,0 +1,9 @@
+README.md
+setup.py
+ai/__init__.py
+ai/classifier.py
+parser.egg-info/PKG-INFO
+parser.egg-info/SOURCES.txt
+parser.egg-info/dependency_links.txt
+parser.egg-info/requires.txt
+parser.egg-info/top_level.txt
