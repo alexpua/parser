@@ -1,19 +1,19 @@
 {
   "price": [
-    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.col-xs-12.col-sm-6.col-md-4.col-lg-4 > div.center-inf-block.h-100 > div.order-call > div.popup-overlay#popup > div.popup_product > form#webhook > div.customer-group > span.cust-group.velikii-gurt > p.velikii-gurt-show",
+    "[document] > html > body > header.header_v_4.pt.h-shadow.fix-header-2 > div.container > div.row.dflex.flex-wrap.align-items-center.pt-10.pb-10 > div.box-cart.col-xs-3.col-sm-3.hidden-xs.col-md-2 > div.shopping-cart > div.btn-group.btn-block#cart > button.dflex.align-items-center.btn.dropdown-toggle > span.cart-total > span.prices > b",
+    "[document] > html > body > header.header_v_4.pt.h-shadow.fix-header-2 > div.container.container-header-custom > div.cart-custom > div > div.shopping-cart > div.btn-group.btn-block#cart > button.dflex.align-items-center.btn.dropdown-toggle > span.cart-total > span.prices > b",
+    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.right-block.col-xs-12.col-sm-6.col-md-3.col-lg-3 > div#fix_right_block > div.panel-rigth-block > div.mb-20 > div#next-prev-box > div.nextprevprod.dflex > script",
     "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.col-xs-12.col-sm-6.col-md-4.col-lg-4 > div.center-inf-block.h-100 > div.order-call > div.popup-overlay#popup > div.popup_product > form#webhook > div.customer-group > span.cust-group.super-gurt > p.super-gurt-show",
     "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.col-xs-12.col-sm-6.col-md-4.col-lg-4 > div.center-inf-block.h-100 > div.order-call > div.popup-overlay#popup > div.popup_product > form#webhook > div.customer-group > span.cust-group.gurt > p.gurt-show",
-    "[document] > html > body > header.header_v_4.pt.h-shadow.fix-header-2 > div.container.container-header-custom > div.cart-custom > div > div.shopping-cart > div.btn-group.btn-block#cart > button.dflex.align-items-center.btn.dropdown-toggle > span.cart-total > span.prices > b",
-    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.right-block.col-xs-12.col-sm-6.col-md-3.col-lg-3 > div#fix_right_block > div.panel-rigth-block > div.price.price_price_fix > span.autocalc-product-price",
-    "[document] > html > body > header.header_v_4.pt.h-shadow.fix-header-2 > div.container > div.row.dflex.flex-wrap.align-items-center.pt-10.pb-10 > div.box-cart.col-xs-3.col-sm-3.hidden-xs.col-md-2 > div.shopping-cart > div.btn-group.btn-block#cart > button.dflex.align-items-center.btn.dropdown-toggle > span.cart-total > span.prices > b",
+    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.col-xs-12.col-sm-6.col-md-4.col-lg-4 > div.center-inf-block.h-100 > div.order-call > div.popup-overlay#popup > div.popup_product > form#webhook > div.customer-group > span.cust-group.velikii-gurt > p.velikii-gurt-show",
     "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.container-module > div.tab-content.prod_cat_tab_content > div.tab-pane.fade.active.in#cat-tab-0-187 > div.content-items > div > div.row-flex.pct_gv.pct_grid0_187 > div.item.no-slider.f-col-xs-6.f-col-sm-6.f-col-md-4.f-col-lg-3.item-col-5 > div.product-thumb.dflex.flex-column.h-100 > div.caption.dflex.flex-column.flex-grow-1 > div.price-actions-box.dflex.flex-wrap.mt-auto > div.vot-gde-ti > span > span > div.test2.price > span.price_no_format",
-    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.right-block.col-xs-12.col-sm-6.col-md-3.col-lg-3 > div#fix_right_block > div.panel-rigth-block > div.mb-20 > div#next-prev-box > div.nextprevprod.dflex > script"
+    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row-flex.no-gutters#product > div.right-block.col-xs-12.col-sm-6.col-md-3.col-lg-3 > div#fix_right_block > div.panel-rigth-block > div.price.price_price_fix > span.autocalc-product-price"
   ],
   "title": [
-    "[document] > html > body > footer.ls-dark-theme > div.footer-top > div.popup-overlay#popik > div.success-head-pop > h2.red-grad-suc",
-    "[document] > html > body > div.container > h1.h1-prod-name",
     "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row.cbp.xs-mt-0.xs-bt-1 > h2.opisanie-h2",
-    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row.cbp.xs-mt-0.xs-bt-1 > div.opis > div.text-opis > div.harakteristiki-plus > div.harakter > h2"
+    "[document] > html > body > div.container > div.row > div.col-sm-12#content > div.row.cbp.xs-mt-0.xs-bt-1 > div.opis > div.text-opis > div.harakteristiki-plus > div.harakter > h2",
+    "[document] > html > body > div.container > h1.h1-prod-name",
+    "[document] > html > body > footer.ls-dark-theme > div.footer-top > div.popup-overlay#popik > div.success-head-pop > h2.red-grad-suc"
   ],
   "model": [],
   "brand": [],
